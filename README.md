@@ -81,8 +81,8 @@ My background in **networking (Layer 2 and Layer 3)** provides a strong understa
 I’m open to professional networking, collaboration, and opportunities in **FinTech, payment systems, and fraud prevention** — especially in roles that combine technical knowledge with client and business engagement.
 
 **GitHub:** [github.com/Stlewis15](https://github.com/Stlewis15)  
-**LinkedIn:** *(Add your LinkedIn URL here once ready)*  
-**Email:** *(Optional – you can use your GitHub noreply email if preferred)*  
+**LinkedIn:** [https://www.linkedin.com/in/lewisstargill/)
+**Email:** weallcaneat@gmail.com
 
 ---
 
