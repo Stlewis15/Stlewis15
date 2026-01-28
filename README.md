@@ -1,6 +1,6 @@
-# 👋 Hi, I’m Lewis Stargill
+# 👋🏾 Hi, I’m Lewis Stargill
 
-I’m a technically driven professional with a strong focus on data-driven applications, process automation, and integration between business systems and APIs. My background includes developing secure, user-centered desktop applications, integrating external data sources, and building tools that improve operational efficiency and data accuracy.
+I’m a technically driven professional with a strong focus on data-driven applications, secure system integration, and process automation. My experience includes building Python-based tools that connect business systems with APIs, improving operational efficiency and data integrity through automation, and designing interfaces that simplify technical workflows.
 
 ---
 
@@ -8,8 +8,8 @@ I’m a technically driven professional with a strong focus on data-driven appli
 
 - **Languages:** Python (Core, OOP, GUI, and API Integration), SQL, JavaScript (basic)
 - **Frameworks & Tools:** Flask, CustomTkinter, Pandas, Requests, Git, PowerShell
-- **Concepts:** OAuth2 Authentication, RESTful API design, Data querying and export (CSV, Excel), GUI development
-- **Platforms:** Salesforce, OneLogin SSO, Microsoft 365 environment
+- **Concepts:** OAuth2 Authentication, RESTful API Design, Data Querying and Export (CSV, Excel), GUI Development
+- **Platforms:** Salesforce, OneLogin SSO, Microsoft 365, Network Systems (Layer 2 & Layer 3)
 
 ---
 
@@ -27,7 +27,7 @@ It allows users to log in through their company’s identity provider, query Sal
   - Clean, user-friendly interface with dynamic theme handling
 
 - **Technical Skills Demonstrated:**
-  Python GUI development, API integration, OAuth2 flow, user authentication logic, dynamic interface design.
+  Python GUI development, API integration, OAuth2 flow, user authentication logic, and dynamic interface design.
 
 - **Repository:** [salesforce-lookup-tool](https://github.com/Stlewis15/salesforce-lookup-tool)
 
@@ -35,16 +35,16 @@ It allows users to log in through their company’s identity provider, query Sal
 
 #### 2. **Payments Fraud API Lab**
 A project designed to simulate API-driven fraud detection and data validation workflows.  
-This project showcases how API endpoints can be used to test transactions, detect anomalies, and apply business logic for fraud prevention.
+This project demonstrates how Python can be used to design, test, and validate financial transactions using logic and thresholds similar to real-world payment fraud detection systems.
 
 - **Key Features:**
   - RESTful API design and endpoint testing
-  - Data parsing and validation
-  - JSON handling and response management
-  - Secure and modular code organization
+  - Data parsing, validation, and anomaly detection
+  - JSON handling and structured response logic
+  - Secure and modular architecture
 
 - **Technical Skills Demonstrated:**
-  API architecture, request/response handling, JSON parsing, exception management, data integrity verification.
+  API architecture, data verification, transaction flow modeling, fraud detection logic, and exception handling.
 
 - **Repository:** [payments-fraud-api](https://github.com/Stlewis15/payments-fraud-api)
 
@@ -57,26 +57,28 @@ I believe that good code should be:
 - **Reliable** — secure, well-tested, and built for real-world use  
 - **Maintainable** — structured to scale and evolve over time  
 
-My approach is to blend technical precision with usability, ensuring that both the end user and the support teams benefit from the solutions I build.
+I focus on blending technical precision with usability, ensuring that solutions serve both the end users and the teams who maintain them.
 
 ---
 
-### 📈 Current Goals
+### 📈 Career Goals
 
-- Continue expanding into data engineering and systems integration  
-- Strengthen advanced Python and API design principles  
-- Explore full-stack development and cloud integration (AWS, Azure)  
+My career goal is to work in the **payment processing and financial fraud prevention** space — building tools that improve security, data accuracy, and risk mitigation across digital transactions.  
+I’m particularly interested in joining innovative organizations like **Visa, Mastercard, PayPal, or Stripe**, where I can contribute to fraud analytics, API development, and secure data integrations.
+
+I also have a growing interest in **anti-money laundering (AML)** technologies and compliance systems.  
+My foundation in **networking (Layer 2 and Layer 3)** gives me an additional perspective on how data moves securely through distributed environments — an advantage when designing reliable financial systems.
 
 ---
 
 ### 🤝 Let’s Connect
 
-I’m open to professional networking, collaboration, and opportunities to grow within Python-based automation, integration, or engineering teams.
+I’m open to professional networking, collaboration, and opportunities in Python development, fraud prevention, or financial systems engineering.
 
 **GitHub:** [github.com/Stlewis15](https://github.com/Stlewis15)  
 **LinkedIn:** *(Add your LinkedIn URL here once ready)*  
-**Email:** *(Optional – you can use your GitHub noreply email if preferred)*
+**Email:** *(Optional – you can use your GitHub noreply email if preferred)*  
 
 ---
 
-*This GitHub profile highlights both practical applications and the understanding of modern software principles — from authentication security to data transformation and user experience design.*
+*This profile highlights practical applications of Python in real-world business and security contexts — demonstrating both technical depth and a focus on the financial technology ecosystem.*
