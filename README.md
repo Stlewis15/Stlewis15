@@ -1,79 +1,84 @@
 # 👋🏾 Hi, I’m Lewis Stargill
 
-I’m a technically driven professional with a strong focus on data-driven applications, secure system integration, and process automation. My experience includes building Python-based tools that connect business systems with APIs, improving operational efficiency and data integrity through automation, and designing interfaces that simplify technical workflows.
+I’m a technically driven professional with a strong focus on system integration, data accuracy, and secure process automation. My background combines business and technical problem-solving — helping bridge the gap between engineering, sales, and client needs.  
+
+I build and understand the tools that power modern financial ecosystems — from API integrations and secure authentication systems to automation that improves the customer and operational experience.
 
 ---
 
 ### 💻 Technical Focus
 
-- **Languages:** Python (Core, OOP, GUI, and API Integration), SQL, JavaScript (basic)
-- **Frameworks & Tools:** Flask, CustomTkinter, Pandas, Requests, Git, PowerShell
-- **Concepts:** OAuth2 Authentication, RESTful API Design, Data Querying and Export (CSV, Excel), GUI Development
-- **Platforms:** Salesforce, OneLogin SSO, Microsoft 365, Network Systems (Layer 2 & Layer 3)
+- **Languages:** Python (Core, OOP, API Integration, and GUI), SQL, JavaScript (basic)
+- **Frameworks & Tools:** Flask, CustomTkinter, Pandas, Requests, Git, PowerShell  
+- **Developer & Integration Tools:** Postman, VS Code, Node.js  
+- **Concepts:** OAuth2 Authentication, RESTful APIs, Data Validation, Secure File Export (CSV, Excel), GUI Development  
+- **Platforms:** Salesforce, OneLogin SSO, Microsoft 365, Networking (Layer 2 & Layer 3)
 
 ---
 
 ### 🧩 Featured Projects
 
 #### 1. **Salesforce Lookup Tool (Python Desktop Application)**
-A secure desktop tool developed to connect with Salesforce via OneLogin SSO using OAuth2 authentication.  
-It allows users to log in through their company’s identity provider, query Salesforce objects, and export results in a clean and efficient GUI built with `CustomTkinter`.
+A secure desktop tool designed to streamline Salesforce data lookups using OneLogin SSO and OAuth2 authentication.  
+This project demonstrates how technical integration and user experience can work together to simplify internal sales processes.
 
 - **Key Features:**
-  - OAuth2 + OneLogin SSO authentication
-  - Modular query system for multiple Salesforce objects
-  - Secure session management with real-time user validation
-  - Export options (CSV and Excel)
-  - Clean, user-friendly interface with dynamic theme handling
+  - OneLogin SSO with OAuth2 secure authentication  
+  - Modular query functions for multiple Salesforce objects  
+  - Dynamic GUI built with `CustomTkinter`  
+  - Export results to CSV or Excel  
+  - Theme and user session management  
 
 - **Technical Skills Demonstrated:**
-  Python GUI development, API integration, OAuth2 flow, user authentication logic, and dynamic interface design.
+  Understanding of OAuth2 authentication, API interaction, GUI development, and secure integration between business systems.
 
 - **Repository:** [salesforce-lookup-tool](https://github.com/Stlewis15/salesforce-lookup-tool)
 
 ---
 
 #### 2. **Payments Fraud API Lab**
-A project designed to simulate API-driven fraud detection and data validation workflows.  
-This project demonstrates how Python can be used to design, test, and validate financial transactions using logic and thresholds similar to real-world payment fraud detection systems.
+A hands-on Python API simulation for financial fraud detection and data validation.  
+Built to demonstrate how API endpoints can be designed and tested to verify transactions, detect anomalies, and ensure compliance with fraud prevention logic.
 
 - **Key Features:**
-  - RESTful API design and endpoint testing
-  - Data parsing, validation, and anomaly detection
-  - JSON handling and structured response logic
-  - Secure and modular architecture
+  - RESTful API design and endpoint testing  
+  - Transaction analysis and validation  
+  - JSON handling and structured data responses  
+  - Modular, secure code layout  
 
 - **Technical Skills Demonstrated:**
-  API architecture, data verification, transaction flow modeling, fraud detection logic, and exception handling.
+  API structure and testing, Postman integration, fraud logic development, and secure data handling.
 
 - **Repository:** [payments-fraud-api](https://github.com/Stlewis15/payments-fraud-api)
 
 ---
 
-### ⚙️ Development Philosophy
+### ⚙️ Technical Philosophy
 
-I believe that good code should be:
-- **Readable** — clear logic, meaningful variable names, and modular design  
-- **Reliable** — secure, well-tested, and built for real-world use  
-- **Maintainable** — structured to scale and evolve over time  
+I believe that great technical professionals are translators — helping connect business goals, engineering solutions, and client needs.  
 
-I focus on blending technical precision with usability, ensuring that solutions serve both the end users and the teams who maintain them.
+I approach every project with three principles:
+- **Clarity:** Solutions should be easy to understand, use, and maintain  
+- **Security:** Every workflow should protect data and user trust  
+- **Scalability:** Build once, scale efficiently  
 
 ---
 
 ### 📈 Career Goals
 
-My career goal is to work in the **payment processing and financial fraud prevention** space — building tools that improve security, data accuracy, and risk mitigation across digital transactions.  
-I’m particularly interested in joining innovative organizations like **Visa, Mastercard, PayPal, or Stripe**, where I can contribute to fraud analytics, API development, and secure data integrations.
+My career goal is to work in the **FinTech industry** — specifically in **payment processing, fraud prevention, or risk management** — where I can support both internal teams and external clients in solving complex technical challenges.  
 
-I also have a growing interest in **anti-money laundering (AML)** technologies and compliance systems.  
-My foundation in **networking (Layer 2 and Layer 3)** gives me an additional perspective on how data moves securely through distributed environments — an advantage when designing reliable financial systems.
+I’m especially interested in roles as a **Solutions Engineer, Sales Engineer, or Technical Integration Specialist** with organizations like **Visa (including CyberSource), Mastercard, PayPal, or Stripe.**
+
+I want to continue developing my ability to explain and implement complex systems like **APIs, SSO authentication, and data integrations** in ways that create practical, secure solutions for both clients and teams.
+
+My background in **networking (Layer 2 and Layer 3)** provides a strong understanding of how systems communicate securely, which helps me approach integrations from both a business and infrastructure perspective.
 
 ---
 
 ### 🤝 Let’s Connect
 
-I’m open to professional networking, collaboration, and opportunities in Python development, fraud prevention, or financial systems engineering.
+I’m open to professional networking, collaboration, and opportunities in **FinTech, payment systems, and fraud prevention** — especially in roles that combine technical knowledge with client and business engagement.
 
 **GitHub:** [github.com/Stlewis15](https://github.com/Stlewis15)  
 **LinkedIn:** *(Add your LinkedIn URL here once ready)*  
@@ -81,4 +86,4 @@ I’m open to professional networking, collaboration, and opportunities in Pytho
 
 ---
 
-*This profile highlights practical applications of Python in real-world business and security contexts — demonstrating both technical depth and a focus on the financial technology ecosystem.*
+*This profile highlights practical applications of Python, APIs, and system integrations — reflecting the technical foundation and client-focused mindset that define modern FinTech engineering roles.*
