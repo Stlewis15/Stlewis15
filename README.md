@@ -1,90 +1,42 @@
-# 👋🏾 Hi, I’m Lewis Stargill
+# Lewis A. Stargill | Sales Engineer & Solutions Architect
+### 🚀 Bridging the Gap: From Network Infrastructure to Global Payments & Fraud Logic
 
-I’m a technically driven professional with a strong focus on system integration, data accuracy, and secure process automation. My background combines business and technical problem-solving — helping bridge the gap between engineering, sales, and client needs.  
+I am a veteran **Sales Engineer** with a deep background in **ISP Infrastructure (Layer 2/3)** now specializing in the **Payments, Fraud, and AML (Anti-Money Laundering)** sector. 
 
-I build and understand the tools that power modern financial ecosystems — from API integrations and secure authentication systems to automation that improves the customer and operational experience.
-
----
-
-### 💻 Technical Focus
-
-- **Languages:** Python (Core, OOP, API Integration, and GUI), SQL, JavaScript (basic)
-- **Frameworks & Tools:** Flask, CustomTkinter, Pandas, Requests, Git, PowerShell  
-- **Developer & Integration Tools:** Postman, VS Code, Node.js  
-- **Concepts:** OAuth2 Authentication, RESTful APIs, Data Validation, Secure File Export (CSV, Excel), GUI Development  
-- **Platforms:** Salesforce, OneLogin SSO, Microsoft 365, Networking (Layer 2 & Layer 3)
+In my previous life, I mastered the "pipes" of the internet. Now, I’m mastering the value that flows through them. I bring a unique perspective to fintech: I don't just see a `payment_intent` API call; I understand the network handshake, the data hygiene, and the millisecond-latency requirements that separate a "Succeeded" transaction from a "Timed Out" loss of revenue.
 
 ---
 
-### 🧩 Featured Projects
-
-#### 1. **Salesforce Lookup Tool (Python Desktop Application)**
-A secure desktop tool designed to streamline Salesforce data lookups using OneLogin SSO and OAuth2 authentication.  
-This project demonstrates how technical integration and user experience can work together to simplify internal sales processes.
-
-- **Key Features:**
-  - OneLogin SSO with OAuth2 secure authentication  
-  - Modular query functions for multiple Salesforce objects  
-  - Dynamic GUI built with `CustomTkinter`  
-  - Export results to CSV or Excel  
-  - Theme and user session management  
-
-- **Technical Skills Demonstrated:**
-  Understanding of OAuth2 authentication, API interaction, GUI development, and secure integration between business systems.
-
-- **Repository:** [salesforce-lookup-tool](https://github.com/Stlewis15/salesforce-lookup-tool)
+## 🛠 My Fintech Tech Stack
+* **Payment APIs:** Stripe (Connect, Billing, Radar), CyberSource, Visa Developer Platform.
+* **Fraud & Risk:** Real-time AI protection (Featurespace / ARIC Risk Hub), 3D Secure 2.0, Behavioral Biometrics.
+* **Tools:** Postman (Collection Architecture), Webhooks, JSON/RESTful API Design, Git/GitHub.
+* **Compliance:** AML/KYC foundations, CDD/EDD workflows, and BSA (Bank Secrecy Act) principles.
 
 ---
 
-#### 2. **Payments Fraud API Lab**
-A hands-on Python API simulation for financial fraud detection and data validation.  
-Built to demonstrate how API endpoints can be designed and tested to verify transactions, detect anomalies, and ensure compliance with fraud prevention logic.
+## 🎓 The Payments & Fraud Bootcamp (Ongoing)
+I am currently documenting a self-led, high-intensity bootcamp to remain at the cutting edge of 2026's payment landscape. This repository serves as my "Proof of Work."
 
-- **Key Features:**
-  - RESTful API design and endpoint testing  
-  - Transaction analysis and validation  
-  - JSON handling and structured data responses  
-  - Modular, secure code layout  
-
-- **Technical Skills Demonstrated:**
-  API structure and testing, Postman integration, fraud logic development, and secure data handling.
-
-- **Repository:** [payments-fraud-api](https://github.com/Stlewis15/payments-fraud-api)
+### Current Modules & Labs:
+* **Phase 0: Infrastructure Setup** – Configured Stripe/CyberSource test environments and Webhook listeners.
+* **Phase 1: API Mastery** – Architecting Postman collections for complex merchant onboarding flows.
+* **Phase 2: Payment Lifecycle** – Mapping the "Life of a Transaction" from Authorization to Settlement and Dispute.
+* **Phase 3: Fraud & AML Deep Dive** – Implementing real-time risk scoring and adaptive AI triggers (focusing on the **Visa + Featurespace** integration).
 
 ---
 
-### ⚙️ Technical Philosophy
-
-I believe that great technical professionals are translators — helping connect business goals, engineering solutions, and client needs.  
-
-I approach every project with three principles:
-- **Clarity:** Solutions should be easy to understand, use, and maintain  
-- **Security:** Every workflow should protect data and user trust  
-- **Scalability:** Build once, scale efficiently  
+## 📈 Why Hire an ISP-Fluent SE?
+Most payment experts stop at the API layer. I go deeper:
+1.  **Network Reliability:** I understand the routing logic that ensures high-availability for mission-critical payment gateways.
+2.  **Security Foundations:** My Layer 2/3 background means I treat data encryption and tokenization with "Zero Trust" infrastructure principles.
+3.  **The "Chief Reminding Officer":** As an SE, I lead with Discovery. I don't just demo features; I solve business friction.
 
 ---
 
-### 📈 Career Goals
+## 📫 Connect with Me
+* **LinkedIn:** [linkedin.com/in/lewisstargill](https://www.linkedin.com/in/lewisstargill)
+* **Portfolio (Notion):** *[Link coming soon]*
+* **Email:** *weallcaneat@gmail.com*
 
-My career goal is to work in the **FinTech industry** — specifically in **payment processing, fraud prevention, or risk management** — where I can support both internal teams and external clients in solving complex technical challenges.  
-
-I’m especially interested in roles as a **Solutions Engineer, Sales Engineer, or Technical Integration Specialist** with organizations like **Visa (including CyberSource), Mastercard, PayPal, or Stripe.**
-
-I want to continue developing my ability to explain and implement complex systems like **APIs, SSO authentication, and data integrations** in ways that create practical, secure solutions for both clients and teams.
-
-My background in **networking (Layer 2 and Layer 3)** provides a strong understanding of how systems communicate securely, which helps me approach integrations from both a business and infrastructure perspective.
-
----
-
-### 🤝 Let’s Connect
-
-I’m open to professional networking, collaboration, and opportunities in **FinTech, payment systems, and fraud prevention** — especially in roles that combine technical knowledge with client and business engagement.
-
-**GitHub:** [github.com/Stlewis15](https://github.com/Stlewis15)  
-**LinkedIn:** [linkedin.com/in/lewisstargill](https://www.linkedin.com/in/lewisstargill/)  
-**Email:** weallcaneat@gmail.com
-
-
----
-
-*This profile highlights practical applications of Python, APIs, and system integrations — reflecting the technical foundation and client-focused mindset that define modern FinTech engineering roles.*
+*"I used to care about packet loss; now I care about revenue loss. Let's build secure, frictionless commerce together."*
