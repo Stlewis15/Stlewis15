@@ -7,12 +7,12 @@ In my previous life, I mastered the "pipes" of the internet. Now, I’m masterin
 
 ---
 
-## 📂 Featured Work & Labs
-Check out my latest technical documentation in my [Payments & Fraud API Labs](./payments-fraud-api-labs) repository:
+### 📂 Featured Work & Labs
+Check out my latest technical documentation in my [Payments & Fraud API Labs](https://github.com/Stlewis15/payments-fraud-api-labs) repository:
 
-* 🛡️ **[PCI-DSS v4.0 & Compliance](./payments-fraud-api-labs/compliance)**: Strategies for Merchant Scope Reduction (SAQ-D to SAQ-A).
-* 🎓 **[Fraud & Dispute Masterclass](./payments-fraud-api-labs/industry-credentials)**: Certification in 3DS 2.0, Liability Shifts, and Representment.
-* 🎭 **[Presales Methodology](./payments-fraud-api-labs/sales-engineering-methodology)**: Frameworks for Value-Based Discovery and Demo Excellence.
+* 🛡️ **[PCI-DSS v4.0 & Compliance](https://github.com/Stlewis15/payments-fraud-api-labs/tree/main/compliance)**: Strategies for Merchant Scope Reduction (SAQ-D to SAQ-A).
+* 🎓 **[Fraud & Dispute Masterclass](https://github.com/Stlewis15/payments-fraud-api-labs/tree/main/industry-credentials)**: Certification in 3DS 2.0, Liability Shifts, and Representment.
+* 🎭 **[Presales Methodology](https://github.com/Stlewis15/payments-fraud-api-labs/tree/main/sales-engineering-methodology)**: Frameworks for Value-Based Discovery and Demo Excellence.
 
 ---
 
